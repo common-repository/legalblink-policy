@@ -1,0 +1,622 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LegalBlink Policy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-19 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: LegalblinkPolicy_Plugin.php:218
+msgid ", or "
+msgstr ""
+
+#: classes/LBPSettingsPage.php:854
+msgid "A problem occurred when saving the page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:166
+msgid ""
+"Accept the cookie information by clicking on the ACCEPT button in the banner"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:172
+msgid ""
+"Accept the cookie information by clicking on the CLOSE button on the banner"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:170
+msgid ""
+"Accept the cookie information by continuing to browse, accessing another "
+"area of the site"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:168
+msgid "Accept the cookie information on the mouse scroll event"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:171
+msgid ""
+"Accessing another area of ​​the site or clicking on any element of the page "
+"(image or link) outside the banner"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:311
+msgid "Activate cookie policy page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:474
+msgid "Activate GCS policy page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:387
+msgid "Activate privacy policy page"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:263
+msgid "Administrator"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:55 classes/LBPSettingsPage.php:542
+msgid "Advanced Settings"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:244
+msgid ""
+"After making your choice on the consent form for first-party profiling "
+"cookies, to save your preferences click on \"Save\"."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:119
+msgid "Alert message"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:254
+msgid "Animation style"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:273
+msgid "Anyone"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:267
+msgid "Author"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:566
+msgid "Automatically block all embed components detected by the plugin."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:552
+msgid "Automatically block all iframe detected by the plugin."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:559
+msgid "Automatically block known scripts detected by the plugin."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:204
+msgid "Banner background color"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:39
+msgid "Banner Cookie"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:211
+msgid "Banner text color"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:232
+msgid "Banner text size"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:22
+msgid "Basic interactions & features"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:114
+msgid "Bottom"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:218
+msgid "Button background color"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:225
+msgid "Button text color"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:178 LegalblinkPolicy_Plugin.php:181
+#, php-format
+msgid "By clicking on the \"%s\" button in the banner itself"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:184
+#, php-format
+msgid "By clicking on the \"%s\" button or \"%s\" button in the banner itself"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:59
+msgid "Cache"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:707
+msgid "Cache settings"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:256
+msgid "Choose the animation to apply when the banner appears."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:205
+msgid "Choose the background color of the banner."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:219
+msgid "Choose the background color of the button."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:212
+msgid "Choose the color of the banner text."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:248
+msgid "Choose the overlay color of the page."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:321
+msgid "Choose the page used to show the cookie policy."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:484
+msgid "Choose the page used to show the GCS policy."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:397
+msgid "Choose the page used to show the privacy policy."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:234
+msgid "Choose the size in pixels of the text."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:226
+msgid "Choose the text color of the button."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:110
+msgid "Choose where to display the banner."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:723
+msgid "Clear cache"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:323 classes/LBPSettingsPage.php:399
+#: classes/LBPSettingsPage.php:486
+msgid "Click here to go check the CMS pages of your site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:413
+msgid "Click here to go in privacy policy settings of your site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:350 classes/LBPSettingsPage.php:437
+#: classes/LBPSettingsPage.php:513
+msgid ""
+"Click or select to copy and paste this shortcode in every page that could "
+"used to show the policy."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:352 classes/LBPSettingsPage.php:439
+#: classes/LBPSettingsPage.php:515
+msgid "Click to copy in clipboard."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:155
+msgid "Close"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:269
+msgid "Contributor"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:43
+msgid "Cookie Policy"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:319
+msgid "Cookie policy page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:303
+msgid "Cookie Policy Settings"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:332
+msgid "Cookie policy URL provided by LegalBlink"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:270
+msgid "Custom CSS class"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:139
+msgid "Custom text for the accept button"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:151
+msgid "Custom text for the close button"
+msgstr ""
+
+#. the plugin main file path
+#: LegalblinkPolicy_Plugin.php:112
+msgid "Deactivating the plugin"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:248
+msgid "Disabled"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:265
+msgid "Editor"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:564
+msgid "Embed blocking"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:239
+msgid "Enable the overlay"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:247
+msgid "Enabled"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:271
+msgid "Enter a custom CSS class"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:120
+msgid ""
+"Enter here the message to be shown to your customers. Use the reserved "
+"string {cookie_policy} to create an automatic link to the cookie page."
+msgstr ""
+
+#: legalblink-policy.php:42
+msgid ""
+"Error: plugin \"LegalBlink Policy\" requires a newer version of PHP to be "
+"running."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:23
+msgid "Experience anhancement"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:260
+msgid "false"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:63
+msgid "FAQ"
+msgstr ""
+
+#: classes/LegalblinkPolicy_CookiePolicyShortCode.php:24
+#: classes/LegalblinkPolicy_GCSPolicyShortCode.php:24
+#: classes/LegalblinkPolicy_PrivacyPolicyShortCode.php:24
+msgid "Feature not configured"
+msgstr ""
+
+#: classes/LegalblinkPolicy_CookiePolicyShortCode.php:18
+#: classes/LegalblinkPolicy_GCSPolicyShortCode.php:18
+#: classes/LegalblinkPolicy_PrivacyPolicyShortCode.php:18
+msgid "Feature not enabled"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:185
+msgid "Force reload page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:187
+msgid "Force reload the current page when the user accepts the site cookies."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:51
+msgid "GCS Policy"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:482
+msgid "GCS policy page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:495
+msgid "GCS policy URL provided by LegalBlink"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:466
+msgid "General Conditions of Sale Policy Settings"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:84
+msgid "General Settings"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/extend/plugins/legalblink-policy/"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:338 classes/LBPSettingsPage.php:425
+#: classes/LBPSettingsPage.php:501
+msgid ""
+"If you don't have an account yet, click here to register one freely and "
+"start generating your legal documents."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:550
+msgid "Iframe blocking"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:334
+msgid ""
+"Insert DIRECT LINK of the \"Cookie Policy\" document generated with "
+"LegalBlink."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:497
+msgid ""
+"Insert DIRECT LINK of the \"GCS Policy\" document generated with LegalBlink."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:421
+msgid ""
+"Insert DIRECT LINK of the \"Privacy Policy\" document generated with "
+"LegalBlink."
+msgstr ""
+
+#. Description of the plugin
+msgid "Install LegalBlink services in your site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:103
+msgid "It shows the cookie banner in all site pages."
+msgstr ""
+
+#. Author of the plugin
+#: classes/LBPSettingsPage.php:31
+msgid "LegalBlink"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:747
+msgid ""
+"LegalBlink generates the legal documents of your business in the fastest and "
+"cheapest way."
+msgstr ""
+
+#. Name of the plugin
+msgid "LegalBlink Policy"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:163
+msgid "Method of accepting cookies"
+msgstr ""
+
+#: legalblink-policy.php:43
+msgid "Minimal version of PHP required: "
+msgstr ""
+
+#: classes/LBPSettingsPage.php:259
+msgid "No animation"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:20
+msgid "Not set"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:143
+msgid "Ok, I understand"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:247
+msgid "Overlay color"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:859
+msgid "Page does not exists"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:175
+msgid "Performing a scrolling action of the page (c.d. scroll down)"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:108
+msgid "Position"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:47
+msgid "Privacy Policy"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:395
+msgid "Privacy policy page"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:379
+msgid "Privacy Policy Settings"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:419
+msgid "Privacy policy URL provided by LegalBlink"
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:246 classes/LBPSettingsPage.php:284
+#: classes/LBPSettingsPage.php:360 classes/LBPSettingsPage.php:447
+#: classes/LBPSettingsPage.php:523 classes/LBPSettingsPage.php:688
+msgid "Save"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:557
+msgid "Script blocking"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:408
+msgid "Set as default in Wordpress"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:410
+msgid "Set this page as the default privacy policy page in Wordpress."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:349 classes/LBPSettingsPage.php:436
+#: classes/LBPSettingsPage.php:512
+msgid "Shortcode"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:101
+msgid "Show the banner"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:313
+msgid "Shows the cookie policy content in a specific page of the site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:476
+msgid "Shows the GCS policy content in a specific page of the site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:389
+msgid "Shows the privacy policy content in a specific page of the site."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:21
+msgid "Strictly necessary"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:260
+msgid "Style 1"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:261
+msgid "Style 2"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:262
+msgid "Style 3"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:263
+msgid "Style 4"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:264
+msgid "Style 5"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:265
+msgid "Style 6"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:196
+msgid "Style Settings"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:271
+msgid "Subscriber"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:24
+msgid "Targeting & Advertising"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:933
+msgid "The cache has been cleared."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:336 classes/LBPSettingsPage.php:423
+#: classes/LBPSettingsPage.php:499
+msgid ""
+"The content of the document you generated using LegalBlink service will be "
+"gathered and displayed on the page you have selected in this section."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:743
+msgid ""
+"The first generator of general conditions of sale, privacy policy and cookie "
+"policy for e-commerce."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:864 classes/LBPSettingsPage.php:886
+msgid "There was an error: "
+msgstr ""
+
+#: classes/LBPSettingsPage.php:122
+msgid ""
+"This site uses third-party cookies to profile users, these cookies allow the "
+"correct use of our services. To learn more or opt out of all or some cookies "
+"go to {cookie_policy} page."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:717
+msgid ""
+"To refresh policy texts, it is possible to delete the cache, clicking on the "
+"button below."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:113
+msgid "Top"
+msgstr ""
+
+#: LegalblinkPolicy_OptionsManager.php:258
+msgid "true"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:146 classes/LBPSettingsPage.php:158
+msgid "Type something here."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:881
+msgid "URL should not be empty"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:325 classes/LBPSettingsPage.php:401
+#: classes/LBPSettingsPage.php:488
+msgid "Warning! The selected CMS page will be overwritten."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:241
+msgid "When the banner appears, a background color is applied to the page."
+msgstr ""
+
+#: LegalblinkPolicy_Plugin.php:190
+msgid "will consent to the use of cookies."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:745
+msgid ""
+"With LegalBlink you forget about legal issues because you have a team of "
+"professionals who are experts in digital law who support your business."
+msgstr ""
+
+#: classes/LBPSettingsPage.php:140
+msgid ""
+"Write here a custom text for the cookie acceptance button. (e.g. 'Ok, I "
+"understand')"
+msgstr ""
+
+#: classes/LBPSettingsPage.php:152
+msgid ""
+"Write here a custom text for the cookie banner close button. (e.g. 'Close')"
+msgstr ""
+
+#: legalblink-policy.php:44
+msgid "Your server's PHP version: "
+msgstr ""

@@ -1,0 +1,14 @@
+{
+    "name": "legalblink/legalblink-policy",
+    "description": "Install LegalBlink services in your site.",
+    "type": "plugin",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "LegalBlink Support",
+            "email": "info@legalblink.it"
+        }
+    ],
+    "require": {
+    }
+}

@@ -1,0 +1,12 @@
+.legalblink_display_plugin_header_info_wrapper {
+    text-align: center;
+    margin: 10px;
+}
+
+.lbp_policy_shortcode {
+    color: red;
+}
+
+.lbp-text-to-copy:hover {
+    cursor: pointer;
+}

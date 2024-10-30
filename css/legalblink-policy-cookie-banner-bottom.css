@@ -1,0 +1,5 @@
+body .overhang,
+body .overhang-overlay {
+    top: auto !important;
+    bottom: 0 !important;
+}
